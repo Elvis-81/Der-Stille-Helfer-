@@ -1,0 +1,7 @@
+{
+  "name": "Der Stille Helfer",
+  "description": "Ein diskreter, persönlicher Assistent für Vorratsplanung, Rezeptmanagement und intelligente Substitutionsvorschläge für Elvis & Alberina.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
